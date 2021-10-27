@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppBaskara</string>
+    <string name="valor_a">Valor de A:</string>
+    <string name="valor_b">Valor de B:</string>
+    <string name="valor_c">Valor de C:</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpar">Limpar</string>
+    <string name="passsar_dados_proxima_tela">Passar dados para próxima tela</string>
+    <string name="resultado">Resultado</string>
+    <string name="raizes_reais">Não existem raízes reais!</string>
+    <string name="erro">Um valor inválido foi informado!</string>
+    <string name="x1">x\'</string>
+    <string name="x2">x\'\'</string>
+</resources>
